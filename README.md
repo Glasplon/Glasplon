@@ -1,4 +1,13 @@
-## Hi there 👋
+# **Hello**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glasplon&layout=compact&theme=dark)
+
+I just want to highlight that this only counts public repos.
+
+---
+
+
+
 
 <!--
 **Glasplon/Glasplon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
