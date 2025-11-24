@@ -1,8 +1,9 @@
 # **Hello**
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glasplon&layout=compact&theme=dark)
 
 I just want to highlight that this only counts public repos.
+
 
 ---
 
