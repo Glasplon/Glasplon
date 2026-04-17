@@ -1,10 +1,12 @@
 # **Hello**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=glasplon&show_icons=true&locale=en&layout=compact" alt="" /></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Glasplon&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glasplon&theme=dark" alt="" /></p>
 
 <!--
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=glasplon&show_icons=true&locale=en&layout=compact" alt="" /></p>
 ---
 ## About Me:
 🔭 I’m currently working on:
