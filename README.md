@@ -1,8 +1,15 @@
 # **Hello**
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Glasplon&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Glasplon&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glasplon&theme=dark" alt="" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glasplon&theme=dark" alt="" /></p>-->
+
+
+![](https://streak-stats.demolab.com/?user=Glasplon&theme=github_dark&hide_border=true)<br/>
+Public repository stats: <br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Glasplon&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in )--> 
 
 <!--
 
