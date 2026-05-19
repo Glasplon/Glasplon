@@ -9,6 +9,8 @@
 Public repository stats: <br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Glasplon&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+
+<!--[![](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,ts,docker,react,express,nodejs,nextjs,threejs,blender,vscode)](https://skillicons.dev)-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in )--> 
 
 <!--
